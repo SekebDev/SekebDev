@@ -40,7 +40,7 @@
   </tr>
 </table>
 
-<h3 align="center">🛠️ Arsenal Tecnológico</h3>
+<h3 align="center">🛠️ Tech Stack</h3>
 
 <div align="center">
   
