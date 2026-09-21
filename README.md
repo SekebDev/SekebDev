@@ -1,6 +1,6 @@
 <!--
   ╔══════════════════════════════════════════════════════════════╗
-  ║                SEKEBDEV // MATRIX PROFILE                   ║
+  ║                          SEKEBDEV                            ║
   ╠══════════════════════════════════════════════════════════════╣
   ║ Quick customization                                         ║
   ║ USERNAME : SekebDev                                         ║
@@ -33,9 +33,9 @@
 
 [+] role........... Fullstack & Game Developer
 [+] focus.......... Unity + TypeScript
-[+] languages...... C / C++ / C# / Python / TypeScript
+[+] languages...... C / C++ / C# / Python / TypeScript / Haskell / Prolog
 [+] frontend....... React / Next.js / Material UI
-[+] backend........ NestJS
+[+] backend........ Node.js / NestJS
 [+] objective...... build fast, useful and memorable software
 ```
 
@@ -72,7 +72,7 @@ Quando não estou construindo alguma coisa, provavelmente estou desmontando outr
 ```bash
 #!/usr/bin/env bash
 
-echo "🎮 criando experiências e sistemas em Unity / C#"
+echo "🎮 criando Jogos em Unity / C#"
 echo "⚙️  estudando performance, arquitetura e código de baixo nível"
 echo "🌐 construindo aplicações com TypeScript"
 echo "🧪 transformando ideias em protótipos jogáveis e software real"
