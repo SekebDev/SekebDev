@@ -33,7 +33,7 @@
 
 [+] role........... Fullstack & Game Developer
 [+] focus.......... Unity + TypeScript
-[+] languages...... C / C++ / C# / Python / TypeScript / Haskell / Prolog
+[+] languages...... C / C++ / C# / Python / Java / JavaScript / TypeScript / Haskell / Prolog
 [+] frontend....... React / Next.js / Material UI
 [+] backend........ Node.js / NestJS
 [+] objective...... build fast, useful and memorable software
