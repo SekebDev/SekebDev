@@ -52,8 +52,12 @@ Quando não estou construindo alguma coisa, provavelmente estou desmontando outr
 <img src="https://img.shields.io/badge/C-0D1117?style=for-the-badge&logo=c&logoColor=00FF41" alt="C" />
 <img src="https://img.shields.io/badge/C++-0D1117?style=for-the-badge&logo=cplusplus&logoColor=00FF41" alt="C++" />
 <img src="https://img.shields.io/badge/C%23-0D1117?style=for-the-badge&logo=csharp&logoColor=00FF41" alt="C#" />
-<img src="https://img.shields.io/badge/Unity-0D1117?style=for-the-badge&logo=unity&logoColor=00FF41" alt="Unity" />
 <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=00FF41" alt="Python" />
+<img src="https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=00FF41" alt="Java" />
+<img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=00FF41" alt="JavaScript" />
+<img src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=00FF41" alt="TypeScript" />
+<img src="https://img.shields.io/badge/Haskell-0D1117?style=for-the-badge&logo=haskell&logoColor=00FF41" alt="Haskell" />
+<img src="https://img.shields.io/badge/Prolog-0D1117?style=for-the-badge&logoColor=00FF41" alt="Prolog" />
 
 <br/>
 
@@ -64,6 +68,69 @@ Quando não estou construindo alguma coisa, provavelmente estou desmontando outr
 <img src="https://img.shields.io/badge/Material_UI-0D1117?style=for-the-badge&logo=mui&logoColor=00FF41" alt="Material UI" />
 
 </div>
+
+## `root@sekebdev:~# ./ai_toolkit.sh`
+
+```text
+[ AI DEVELOPMENT ]
+
+[+] AI-assisted software development
+[+] Agentic coding workflows
+[+] Code generation & refactoring
+[+] Debugging with AI agents
+[+] Repository analysis
+[+] Prompt engineering
+[+] MCP integrations
+[+] Custom Skills
+[+] Spec-Driven Development
+```
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Claude_Code-0D1117?style=for-the-badge&logo=anthropic&logoColor=00FF41" alt="Claude Code" />
+<img src="https://img.shields.io/badge/OpenAI_Codex-0D1117?style=for-the-badge&logo=openai&logoColor=00FF41" alt="OpenAI Codex" />
+<img src="https://img.shields.io/badge/MCP-0D1117?style=for-the-badge&logoColor=00FF41" alt="MCP" />
+<img src="https://img.shields.io/badge/AI_Skills-0D1117?style=for-the-badge&logoColor=00FF41" alt="AI Skills" />
+<img src="https://img.shields.io/badge/Spec--Driven-0D1117?style=for-the-badge&logoColor=00FF41" alt="Spec Driven Development" />
+
+</div>
+
+<br/>
+
+```bash
+$ ai-agent --experience
+
+Claude Code
+  -> repository exploration
+  -> implementation & refactoring
+  -> debugging
+  -> agentic development workflows
+
+OpenAI Codex
+  -> coding agents
+  -> code generation
+  -> repository-level tasks
+  -> debugging & software automation
+
+MCP
+  -> connecting AI agents to tools and external systems
+  -> building tool-based development workflows
+  -> contextual integrations
+
+Skills
+  -> reusable agent capabilities
+  -> specialized workflows and instructions
+  -> extending coding agent behavior
+
+Spec-Driven Development
+  -> requirements before implementation
+  -> structured technical specifications
+  -> task decomposition
+  -> implementation guided by explicit specs
+
+$ echo $AI_PHILOSOPHY
+"AI is a tool to amplify engineering, not replace understanding."
+```
 
 ---
 
