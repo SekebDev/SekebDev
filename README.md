@@ -19,7 +19,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2600&pause=900&color=00FF41&center=true&vCenter=true&width=760&lines=%24+booting+developer_profile...;%24+loading+Unity+%2B+C%23...;%24+loading+TypeScript+%2B+Fullstack...;%24+status%3A+building+%2F+breaking+%2F+learning+%2F+shipping" alt="Terminal typing animation" />
 </a>
 
-`[ SYSTEM ONLINE ]`   `[ BUILD MODE ]`   `[ COFFEE: REQUIRED ]`
+`[ SYSTEM ONLINE ]` &nbsp; `[ BUILD MODE ]` &nbsp; `[ COFFEE: REQUIRED ]`
 
 </div>
 
@@ -39,9 +39,9 @@
 [+] objective...... build fast, useful and memorable software
 ```
 
-Eu gosto de navegar entre **baixo nível, aplicações web e desenvolvimento de jogos**.
+Gosto de transitar entre **baixo nível, aplicações web e desenvolvimento de jogos**.
 
-Quando não estou construindo alguma coisa, provavelmente estou desmontando outra para descobrir como funciona.
+Também tenho o hábito de abrir as coisas, testar, quebrar e entender o que está acontecendo por baixo antes de simplesmente aceitar que “funciona”.
 
 ---
 
@@ -68,6 +68,8 @@ Quando não estou construindo alguma coisa, provavelmente estou desmontando outr
 <img src="https://img.shields.io/badge/Material_UI-0D1117?style=for-the-badge&logo=mui&logoColor=00FF41" alt="Material UI" />
 
 </div>
+
+---
 
 ## `root@sekebdev:~# ./ai_toolkit.sh`
 
@@ -166,7 +168,9 @@ echo "🧪 transformando ideias em protótipos jogáveis e software real"
 ## `> ./activity --matrix`
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=SekebDev&bg_color=0D1117&color=00FF41&line=00FF41&point=C9D1D9&area=true&hide_border=false&custom_title=Contribution%20Matrix" alt="GitHub activity graph" />
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=SekebDev&bg_color=0D1117&color=00FF41&line=00FF41&point=C9D1D9&area=true&hide_border=false&custom_title=Contribution%20Matrix" alt="GitHub activity graph" />
+
 </div>
 
 ---
@@ -179,7 +183,7 @@ echo "🧪 transformando ideias em protótipos jogáveis e software real"
   <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FF41" alt="LinkedIn" />
 </a>
 
-<a href="mailto:[vitorxr1000@gmail.com](mailto:vitorxr1000@gmail.com)">
+<a href="mailto:vitorxr1000@gmail.com">
   <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00FF41" alt="Email" />
 </a>
 
